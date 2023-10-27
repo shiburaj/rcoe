@@ -8,20 +8,24 @@
 - [Affiliated to University of Mumbai](https://mu.ac.in/)
 - [Accredited by NAAC (National Assessment and Accreditation Council)](http://www.naac.gov.in/) 
 
+```
+✦ Approved by AICTE  ✦ Recognized by DTE  ✦ Affiliated to University of Mumbai ✦ Accredited by NAAC
+```
+
 ### Logos
 - RCOE Logo Small
-![RCOE Logo Small](/assets/rcoe-logo-small-transparent.png)
+![RCOE Logo Small](https://shiburaj.github.io/rcoe/assets/rcoe-logo-small-transparent.png)
 - RCOE Logo Big
-![RCOE Logo Big](/assets/rcoe-logo-big-transparent.png)
+![RCOE Logo Big](https://shiburaj.github.io/rcoe/assets/rcoe-logo-big-transparent.png)
 - RCOE Logo with White Background
-![RCOE Logo with White Background](/assets/rcoe-logo-white-bg.png)
+![RCOE Logo with White Background](https://shiburaj.github.io/rcoe/assets/rcoe-logo-white-bg.png)
 - RCOE Logo Transparent with White Text
-![RCOE Logo Transparent with White Text](/assets/rcoe-logo-white.png)
+![RCOE Logo Transparent with White Text](https://shiburaj.github.io/rcoe/assets/rcoe-logo-white.png)
 - Mumbai University Logo
-![Mumbai University Logo](/assets/mu.png)
+![Mumbai University Logo](https://shiburaj.github.io/rcoe/assets/mu.png)
 - DTE Logo
-![DTE Logo](/assets/DTE.png)
+![DTE Logo](https://shiburaj.github.io/rcoe/assets/DTE.png)
 - AICTE Logo
-![AICTE Logo](/assets/aicte.png)
+![AICTE Logo](https://shiburaj.github.io/rcoe/assets/aicte.png)
 - NAAC B+ Logo
-![AICTE Logo](/assets/naac-b-plus.png)
+![AICTE Logo](https://shiburaj.github.io/rcoe/assets/naac-b-plus.png)
