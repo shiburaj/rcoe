@@ -1,6 +1,9 @@
 # RCOE
 ## Rizvi College of Engineering
 
+### Departments
+- [Computer Engineering](COMP.md)
+
 
 ### Approval, Recognition,Affiliation & Accreditation
 - [Approved by AICTE (New Delhi, Govt. of  India)](https://www.aicte-india.org)
