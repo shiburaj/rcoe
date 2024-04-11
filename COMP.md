@@ -40,9 +40,29 @@ independent and life-long learning in the broadest context of technological chan
 
 ### Subject in Computer Engineering Department
 - #### Semester 1
-  - NA
+  - FEC101 : Engineering Mathematics-I
+  - FEC102 : Engineering Physics-I
+  - FEC103 : Engineering Chemistry-I
+  - FEC104 : Engineering Mechanics
+  - FEC105 : Basic Electrical Engineering
+  - FEL101 : Engineering Physics-I Lab
+  - FEL102 : Engineering Chemistry-I Lab
+  - FEL103 : Engineering Mechanics Lab
+  - FEL104 : Basic Electrical Engineering Lab
+  - FEL105 : Basic Workshop practice-I
 - #### Semester 2
-  - C Programming
+  - FEC201 : Engineering Mathematics-II
+  - FEC202 : Engineering Physics-II
+  - FEC203 : Engineering Chemistry-II
+  - FEC204 : Engineering Graphics
+  - FEC205 : C programming
+  - FEC206 : Professional Communication and Ethics- I
+  - FEL201 : Engineering Physics-II Lab
+  - FEL202 : Engineering Chemistry-II Lab
+  - FEL203 : Engineering Graphics Lab
+  - FEL204 : C programming Lab
+  - FEL205 : Professional Communication and Ethics- I Lab
+  - FEL206 : Basic Workshop practice-II
 - #### Semester 3 (Marks : 775)
   - CSC301 : Engineering Mathematics-III
   - CSC302 : Discrete Structures and Graph Theory
