@@ -12,7 +12,19 @@
 - [Accredited by NAAC (National Assessment and Accreditation Council)](http://www.naac.gov.in/) 
 
 ```
-✦ Approved by AICTE  ✦ Recognized by DTE  ✦ Affiliated to University of Mumbai ✦ Accredited by NAAC
+RIZVI EDUCATION SOCIETY's
+```
+
+```
+Rizvi College of Engineering
+```
+
+```
+✦ Approved by AICTE  ✦ Recognized by DTE  ✦ Affiliated to University of Mumbai ✦ Accredited by NAAC ✦ Department Accredited by NBA
+```
+
+```
+Department of Computer Engineering
 ```
 
 ### Logos
@@ -31,4 +43,8 @@
 - AICTE Logo
 ![AICTE Logo](https://shiburaj.github.io/rcoe/assets/aicte.png)
 - NAAC B+ Logo
-![AICTE Logo](https://shiburaj.github.io/rcoe/assets/naac-b-plus.png)
+![NAAC B+ Logo](https://shiburaj.github.io/rcoe/assets/naac-b-plus.png)
+- NAAC  Logo
+![NAAC Logo](https://shiburaj.github.io/rcoe/assets/naac.png)
+- NBA  Logo
+![NBA Logo](https://shiburaj.github.io/rcoe/assets/nba.png)
